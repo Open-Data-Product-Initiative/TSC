@@ -11,5 +11,13 @@
 - Training materials and courses
 - AI integration and chatbot development
     
+### Discussion forum - Slack or something else
+
+### Suggestion approach for ODPS 4.0 
+
+### Opportunities and partnerships
+
 ### Training materials and Courses
 - New Data Product Monetization MAsterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
+
+### AI integration and chatbot development
