@@ -12,6 +12,10 @@
 - AI integration and chatbot development
     
 ### Discussion forum - Slack or something else
+- Slack
+- Discord
+
+Question is that who takes some responsibility of it. I kind of find it hard to believe that it just rolls on its own, but I might be wrong (Jarkko). Setting up a chat env hardly is enough to ignite discussions and interaction. 
 
 ### Suggestion approach for ODPS 4.0 
 - https://www.youtube.com/watch?v=o3d7nEwCsGI 
