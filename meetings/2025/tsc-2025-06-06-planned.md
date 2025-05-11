@@ -19,7 +19,8 @@
 - **What is the primary problem we want to solve with discussion forum and how would it solve it?**
 
 ### Suggestion approach for ODPS 4.0 
-- https://www.youtube.com/watch?v=o3d7nEwCsGI 
+- https://www.youtube.com/watch?v=o3d7nEwCsGI
+- https://github.com/Open-Data-Product-Initiative/TSC/blob/main/meetings/2025/ODPS%20as%20Component%20Model-1.pdf
 
 ### Opportunities and partnerships
 
