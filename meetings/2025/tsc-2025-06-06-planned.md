@@ -14,6 +14,7 @@
 ### Discussion forum - Slack or something else
 
 ### Suggestion approach for ODPS 4.0 
+- https://www.youtube.com/watch?v=o3d7nEwCsGI 
 
 ### Opportunities and partnerships
 
