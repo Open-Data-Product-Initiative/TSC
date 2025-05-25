@@ -1,5 +1,7 @@
 # TSC Meeting – 6th June 2025
 
+Meeting URL:  https://meet.google.com/ezu-qdoz-eja 
+
 ## Attendees
 ....
 
