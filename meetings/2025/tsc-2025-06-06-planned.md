@@ -1,4 +1,4 @@
-# TSC Meeting – June 2025 (Plan)
+# TSC Meeting – 6th June 2025
 
 ## Attendees
 ....
