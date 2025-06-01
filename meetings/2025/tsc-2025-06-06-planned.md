@@ -10,6 +10,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - Discussion forum - Slack or something else
 - Use cases webinar - with companies utilizing ODPS
 - Entering Incubation phase
+- Data Maestro Academy to ramp up ODPS basic training and certificates
 - Suggestion approach for ODPS 4.0 - what it fixes and how to implement (Jarkko)
 - Opportunities and partnerships
 - Training materials and courses
