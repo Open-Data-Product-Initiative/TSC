@@ -15,6 +15,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 6. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
 7. Certification Program via Data Maestro Academy
 8. AI Integration and Chatbot Development for ODPS-Enabled Platforms
+9. Data Mesh spec (port orientation) and how to merge that with ODPS 
 
 <hr/>
 
@@ -93,3 +94,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 <hr/>
 
 ### 8. AI integration and chatbot development
+
+### 9. Data Mesh spec (port orientation) and how to merge that with ODPS 
+
+Many organizations adopting data products now face a dilemma: they aim to align with data mesh principles while still wanting to leverage key features of the Open Data Product Specification (ODPS). What’s needed are clear patterns for building hybrid models that combine the best of both worlds.
+
