@@ -38,7 +38,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
-<hr>
+<hr/>
+
 ### 3. Webinar
 - Maintainer has suggested that we organize a use cases focused webinar.
 - BASF, Alation and one more to showcase briefly how they use ODPS
@@ -47,7 +48,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
-<hr>
+<hr/>
+
 ### 4. Suggestion approach for ODPS 4.0 
 - https://www.youtube.com/watch?v=o3d7nEwCsGI
 - https://github.com/Open-Data-Product-Initiative/TSC/blob/main/meetings/2025/ODPS%20as%20Component%20Model-1.pdf
@@ -58,7 +60,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 **Next steps:**
 - Proposal: Maintainers prepare the RC for review
 
-<hr>
+<hr/>
+
 ### 5. Opportunities and partnerships
 
 - NATO adopted ODPS
@@ -71,12 +74,14 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
-<hr>
+<hr/>
+
 ### 6. Training materials and Courses
 - New Data Product Monetization MasterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
 - Already earlier Data Product MasterClass was published in Udemy. ODPS also has a role in it. https://www.udemy.com/course/data-product-mindset/
 
-<hr>
+<hr/>
+
 ### 7. Certification program 
 - Suggested that Data Maestro Academy take action and lead on a certification program with free learning materials. https://github.com/Open-Data-Product-Initiative/TSC/blob/main/docs/certfication.md 
 
@@ -85,5 +90,6 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
-<hr>
+<hr/>
+
 ### 8. AI integration and chatbot development
