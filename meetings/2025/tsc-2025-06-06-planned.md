@@ -40,4 +40,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - New Data Product Monetization MAsterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
 - Already earlier Data Product MasterClass was published in Udemy. ODPS also has a role in it. https://www.udemy.com/course/data-product-mindset/
 
+### Certification program 
+https://github.com/Open-Data-Product-Initiative/TSC/blob/main/docs/certfication.md 
+
+
 ### AI integration and chatbot development
