@@ -69,7 +69,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - Alation has publicly announced using ODPS in data product agent tool, testimonial asked in email, no response yet (Jarkko)
 - Kruger (CA): notes on some issues in adoption coming soon, Jarkko to review and see how to assist Kruger, meeting Sat 7th June (Jarkko)
 - Amtrak: No news, very sluggish progress (Jarkko)
-- The Modern Data Company: new start of discussion, meeting coming with CMO and others (Jarkko)  
+- The Modern Data Company: new start of discussion, meeting coming with CMO and others (Jarkko)
+- ODPS raised to the awareness of Open Data Institute, suggested further discussions with their internal standardization focused staff. (Jarkko)
 
 **Decision:**
 
