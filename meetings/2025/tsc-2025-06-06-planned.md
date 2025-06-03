@@ -33,7 +33,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 **Decision:**
 
 **Next steps:**
-  
+
+<hr>
 ### 3. Webinar
 - Maintainer has suggested that we organize a use cases focused webinar.
 - BASF, Alation and one more to showcase briefly how they use ODPS
@@ -42,14 +43,18 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
+<hr>
 ### 4. Suggestion approach for ODPS 4.0 
 - https://www.youtube.com/watch?v=o3d7nEwCsGI
 - https://github.com/Open-Data-Product-Initiative/TSC/blob/main/meetings/2025/ODPS%20as%20Component%20Model-1.pdf
 
 **Decision:**
+- Proposal: approach accepted for next ODPS version 
 
 **Next steps:**
+- Proposal: Maintainers prepare the RC for review
 
+<hr>
 ### 5. Opportunities and partnerships
 
 - NATO adopted ODPS
@@ -58,6 +63,11 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - Amtrak: No news, very sluggish progress
 -   
 
+**Decision:**
+
+**Next steps:**
+
+<hr>
 ### 6. Training materials and Courses
 - New Data Product Monetization MasterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
 - Already earlier Data Product MasterClass was published in Udemy. ODPS also has a role in it. https://www.udemy.com/course/data-product-mindset/
@@ -66,6 +76,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - Suggested that Data Maestro Academy take action and lead on a certification program with free learning materials. https://github.com/Open-Data-Product-Initiative/TSC/blob/main/docs/certfication.md 
 
 **Decision:**
+- Proposal: Data Maestro Academy to draft the model with details for TSC approval. Later, create a Certification Board (ODPS Core + community reps) to oversee the certification. 
 
 **Next steps:**
 
