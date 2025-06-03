@@ -16,7 +16,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 7. Certification Program via Data Maestro Academy
 8. AI Integration and Chatbot Development for ODPS-Enabled Platforms
 
-<hr>
+<hr/>
+
 ### 1. Discussion forum - Slack or something else
 - Slack
 - Discord
@@ -29,6 +30,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 **Next steps:**
 
 <hr>
+
 ### 2. Entering incubation phase in Linux Foundation
 - We need a sponsor, other requirements are most likely negotiable.
 
