@@ -15,7 +15,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 6. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
 7. Certification Program via Data Maestro Academy
 8. AI Integration and Chatbot Development for ODPS-Enabled Platforms
-    
+
+<hr>
 ### 1. Discussion forum - Slack or something else
 - Slack
 - Discord
@@ -27,6 +28,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
+<hr>
 ### 2. Entering incubation phase in Linux Foundation
 - We need a sponsor, other requirements are most likely negotiable.
 
@@ -72,6 +74,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - New Data Product Monetization MasterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
 - Already earlier Data Product MasterClass was published in Udemy. ODPS also has a role in it. https://www.udemy.com/course/data-product-mindset/
 
+<hr>
 ### 7. Certification program 
 - Suggested that Data Maestro Academy take action and lead on a certification program with free learning materials. https://github.com/Open-Data-Product-Initiative/TSC/blob/main/docs/certfication.md 
 
@@ -80,5 +83,5 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 **Next steps:**
 
-
+<hr>
 ### 8. AI integration and chatbot development
