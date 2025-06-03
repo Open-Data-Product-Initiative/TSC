@@ -1,4 +1,4 @@
-# TSC Meeting – 6th June 2025
+# TSC Meeting – 6th June 2025, 5pm Dubai time
 
 Meeting URL:  https://meet.google.com/ezu-qdoz-eja 
 
