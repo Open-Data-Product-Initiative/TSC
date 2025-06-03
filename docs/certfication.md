@@ -12,13 +12,14 @@ Establish a certification pathway that guarantees consultants understand, apply,
 - Internal advisors within government or large organizations using ODPS
 
 ## Certification Levels (Progressive Path)
-Level	Title	Focus
-Level 1	ODPS Foundation Certified	Core concepts, ODPS anatomy, use cases
-Level 2	ODPS Practitioner	Hands-on application, YAML specs, lifecycle alignment
-Level 3	ODPS Solution Architect	Cross-org adoption, monetization, governance integration
-Level 4	ODPS Evangelist / Trainer	Can train others, contribute to ODPS extensions
+
+- Level 1	_ODPS Foundation_ Certified	Core concepts, ODPS anatomy, use cases
+- Level 2	_ODPS Practitioner	_Hands-on application, YAML specs, lifecycle alignment
+- Level 3	_ODPS Solution Architect_	Cross-org adoption, monetization, governance integration
+- Level 4	_ODPS Evangelist / Trainer_	Can train others, contribute to ODPS extensions
 
 ## Key Competency Areas
+
 - The ODPS meta-model and YAML structure
 - Governance, lifecycle alignment, and FAIR-by-design
 - Monetization and pricing models with CRUP actions
