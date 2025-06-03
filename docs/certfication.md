@@ -1,4 +1,4 @@
-# ODPS Consultant Certification Program: Strategy Overview
+# ODPS Certification Program: Strategy Overview
 
 ## Objective
 
