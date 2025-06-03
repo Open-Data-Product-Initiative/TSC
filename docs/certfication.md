@@ -14,7 +14,7 @@ Establish a certification pathway that guarantees consultants understand, apply,
 ## Certification Levels (Progressive Path)
 
 - Level 1	_ODPS Foundation_ Certified	Core concepts, ODPS anatomy, use cases
-- Level 2	_ODPS Practitioner	_Hands-on application, YAML specs, lifecycle alignment
+- Level 2	_ODPS Practitioner_ Hands-on application, YAML specs, lifecycle alignment
 - Level 3	_ODPS Solution Architect_	Cross-org adoption, monetization, governance integration
 - Level 4	_ODPS Evangelist / Trainer_	Can train others, contribute to ODPS extensions
 
