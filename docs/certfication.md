@@ -43,3 +43,20 @@ Establish a certification pathway that guarantees consultants understand, apply,
 - Paid Practitioner/Architect levels with graded assignments and feedback
 - Partner tier certification discounts for platform vendors and consulting firms
 - White-labeled corporate training available under license
+
+
+# The world’s first AI-native data product certification program
+
+Instead of learners watching videos and completing static assignments, imagine this:
+
+**LLM-powered Learning Companion:**
+- Each ODPS course comes with a pretrained assistant that knows the spec, context, use cases, and real-world applications. It digests the course materials (video transcripts, slide decks, examples, YAML specs, etc.) and engages the learner in a personalized, Socratic dialogue.
+
+**Multimodal Course Shell:**
+- Learners can watch a video or review a diagram, and then ask the assistant to explain, challenge, or relate it to their own context (e.g., "How would this apply in a telco environment?").
+
+**Adaptive Checkpoints Instead of Static Quizzes:**
+- Periodically, the assistant offers scenario-based checkpoints, adapting the questions based on how the learner has interacted. If someone skips core ideas or shows gaps, the assistant circles back before allowing progress.
+
+**Final Certification via AI-Augmented Practical Test:**
+- A capstone assignment could involve uploading or reviewing a real ODPS YAML file and having a dialogue with the assistant to improve it—validating both their applied knowledge and interaction with tooling.
