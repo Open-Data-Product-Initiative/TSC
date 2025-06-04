@@ -60,3 +60,22 @@ Instead of learners watching videos and completing static assignments, imagine t
 
 **Final Certification via AI-Augmented Practical Test:**
 - A capstone assignment could involve uploading or reviewing a real ODPS YAML file and having a dialogue with the assistant to improve it—validating both their applied knowledge and interaction with tooling.
+
+## ODPS Certification & Learning Offering
+
+**1. Free Learning Path – Udemy Course (No Certificate)**
+- Platform: Udemy
+- Access: 100% Free
+- Includes: Full learning video course, Self-paced access to ODPS fundamentals, No certificate included
+- Ideal for: Exploring the ODPS framework, Gaining awareness before committing to certification, Broad audience, zero friction
+
+**2. Certification-Only Path (Standalone Test)**
+- Price: $50 USD
+- Includes: Online certification test, 3 attempts included, Certificate issued upon successful completion
+- Does NOT include: Access to ODPS Assistant, Guided support or learning personalization
+- Ideal for: Learners who already know ODPS, Corporate professionals needing quick validation
+
+**3. Premium Path – ODPS Assistant Subscription (Annual)**
+- Price: To be finalized (suggest ~$99/year or more depending on feature set)
+- Includes: Full access to the ODPS Assistant (custom GPT trained on ODPS), Personalized learning experience with interactive Q&A, Certificate test included (3 attempts), Continuous content updates, Access to evolving skill trees and advanced certifications, Smooth upgrade to new certification levels via add-ons
+- Ideal for: Practitioners, consultants, and data professionals, Organizations adopting ODPS in practice, Learners who want long-term guidance, updates, and certification stack
