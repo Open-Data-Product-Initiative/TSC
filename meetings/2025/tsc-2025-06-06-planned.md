@@ -71,6 +71,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 - Amtrak: No news, very sluggish progress (Jarkko)
 - The Modern Data Company: new start of discussion, meeting coming with CMO and others (Jarkko)
 - ODPS raised to the awareness of Open Data Institute, suggested further discussions with their internal standardization focused staff. (Jarkko)
+- Soda.io connection created. Suggested collaboration (Jarkko)
 
 **Decision:**
 
