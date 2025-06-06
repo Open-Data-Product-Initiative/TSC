@@ -9,13 +9,14 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 1. Community Discussion Forum – Slack, Discord, and Ownership Responsibility
 2. Entering the Incubation Phase in the Linux Foundation
-3. Organizing a Webinar Featuring ODPS Use Cases (BASF, Alation, etc.)
-4. Proposed Approach for ODPS 4.0 – Fixes, Component Model, and Implementation Path
-5. Strategic Opportunities and Ecosystem Partnerships
-6. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
-7. Certification Program via Data Maestro Academy
-8. AI Integration and Chatbot Development for ODPS-Enabled Platforms
-9. Data Mesh spec (port orientation) and how to merge that with ODPS 
+3. Patterns - Data Mesh spec (port orientation) and how to merge that with ODPS 
+4. Organizing a Webinar Featuring ODPS Use Cases (BASF, Alation, etc.)
+5. Proposed Approach for ODPS 4.0 – Fixes, Component Model, and Implementation Path
+6. Strategic Opportunities and Ecosystem Partnerships
+7. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
+8. Certification Program via Data Maestro Academy
+9. AI Integration and Chatbot Development for ODPS-Enabled Platforms
+
 
 <hr/>
 
@@ -41,7 +42,9 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 <hr/>
 
-### 3. Webinar
+### 3. Data Mesh spec (port orientation) and how to merge that with ODPS 
+
+### 4. Webinar
 - Maintainer has suggested that we organize a use cases focused webinar.
 - BASF, Alation and one more to showcase briefly how they use ODPS
 
@@ -51,7 +54,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 <hr/>
 
-### 4. Suggestion approach for ODPS 4.0 
+### 5. Suggestion approach for ODPS 4.0 
 - https://www.youtube.com/watch?v=o3d7nEwCsGI
 - https://github.com/Open-Data-Product-Initiative/TSC/blob/main/meetings/2025/ODPS%20as%20Component%20Model-1.pdf
 
@@ -63,7 +66,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 <hr/>
 
-### 5. Opportunities and partnerships
+### 6. Opportunities and partnerships
 
 - NATO adopted ODPS (just discovered this recently online)
 - Alation has publicly announced using ODPS in data product agent tool, testimonial asked in email, no response yet (Jarkko)
@@ -79,13 +82,13 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 <hr/>
 
-### 6. Training materials and Courses
+### 7. Training materials and Courses
 - New Data Product Monetization MasterClass (commercial) in Udemy. ODPS is very heavily used and includes guidance how to use it in AI Agent ready data product monetization https://www.udemy.com/course/data-product-monetization-masterclass/
 - Already earlier Data Product MasterClass was published in Udemy. ODPS also has a role in it. https://www.udemy.com/course/data-product-mindset/
 
 <hr/>
 
-### 7. Certification program 
+### 8. Certification program 
 - Suggested that Data Maestro Academy take action and lead on a certification program with free learning materials. https://github.com/Open-Data-Product-Initiative/TSC/blob/main/docs/certfication.md 
 
 **Decision:**
@@ -95,9 +98,9 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 <hr/>
 
-### 8. AI integration and chatbot development
+### 9. AI integration and chatbot development
 
-### 9. Data Mesh spec (port orientation) and how to merge that with ODPS 
+
 
 Many organizations adopting data products now face a dilemma: they aim to align with data mesh principles while still wanting to leverage key features of the Open Data Product Specification (ODPS). What’s needed are clear patterns for building hybrid models that combine the best of both worlds.
 
