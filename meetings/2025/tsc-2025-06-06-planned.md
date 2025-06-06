@@ -5,12 +5,12 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 ## Attendees
 ....
 
-## Agenda
+## Agenda (bolded discussed in the meeting)
 
-1. Community Discussion Forum – Slack, Discord, and Ownership Responsibility
-2. Entering the Incubation Phase in the Linux Foundation
-3. Patterns - Data Mesh spec (port orientation) and how to merge that with ODPS 
-4. Organizing a Webinar Featuring ODPS Use Cases (BASF, Alation, etc.)
+**1. Community Discussion Forum – Slack, Discord, and Ownership Responsibility**
+**2. Entering the Incubation Phase in the Linux Foundation**
+**3. Patterns - Data Mesh spec (port orientation) and how to merge that with ODPS**
+**4. Organizing a Webinar Featuring ODPS Use Cases (BASF, Alation, etc.)**
 5. Proposed Approach for ODPS 4.0 – Fixes, Component Model, and Implementation Path
 6. Strategic Opportunities and Ecosystem Partnerships
 7. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
@@ -24,36 +24,65 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 ### 1. Discussion forum - Slack or something else
 - Slack
 - Discord
-
--  Question is that who takes some responsibility of it. I kind of find it hard to believe that it just rolls on its own, but I might be wrong (Jarkko). Setting up a chat env hardly is enough to ignite discussions and interaction. 
+- Question is that who takes some responsibility of it. I kind of find it hard to believe that it just rolls on its own, but I might be wrong (Jarkko). Setting up a chat env hardly is enough to ignite discussions and interaction. 
 - What is the primary problem we want to solve with discussion forum and how would it solve it?
+- Some say that current WA is good enough
+- Some say that we need more than WA
+- We need to minimize the amount of communication channels, that we all agree due to limited people involved and other reasons
+- If Slack is taken into use, WA is paused for agreed time to test Slack approach.
+- Slack or Discord?
+  
 
 **Decision:**
 
+- Discord
+- Piloting, can be stopped anytime by TSC if needed
+- Pause WA after all have access to Discord
+- Learn patterns how to organize topics and management, document learnings
+- Initial channels: Tools dev, TSC meetings, Next Release, Partnerships (a lot of this kind of topics ongoing by Jarkko), Issues (integration from Github?), Welcome (with community guidelines)
+
 **Next steps:**
 
+- Zaher starts setting up.
+- Provide link to group in WA for review when ready
+
+  
 <hr>
 
 ### 2. Entering incubation phase in Linux Foundation
+
 - We need a sponsor, other requirements are most likely negotiable.
 
 **Decision:**
-
+  
 **Next steps:**
+
+- Jarkko to discuss with LF about the requirements, how could we proceed to next step
 
 <hr/>
 
 ### 3. Data Mesh spec (port orientation) and how to merge that with ODPS 
-- Some users of ODPS struggling with this. Not one but more, so perhaps we can start drafting patterns for the hybrids.
-- We already have hybrid in X-Road but that is OpenAPI spec & ODPS
+- Some users of ODPS are struggling with this. Not one but more, so perhaps we can start drafting patterns for the hybrids.
+- We already have a hybrid in X-Road, but that is OpenAPI spec & ODPS
+- Output ports are a bit like or related to Access in ODPS
+- Kruger meeting Sat around the same topic
+- Topic related to Open Data Product Specification, Data Product Descriptor (Data Mesh), Open Data Contract Standard (leaning towards Data Mesh)
+- Idea exchange for solutions 
 
 ### 4. Webinar
 - Maintainer has suggested that we organize a use cases focused webinar.
-- BASF, Alation and one more to showcase briefly how they use ODPS
+- BASF, Alation, X-Road and one more to showcase briefly how they use ODPS
+- What is the first audience to approach: 
+- Requires a lot of collaboration between stakeholders before can be done
+- This might need to be thought of as a recurring event, not always just business use cases, but progress, tooling show cases, etc.
+- Create a roadmap of events and leave spots open for example for BASF, Alation, X-Road, FIWARE case far in the future
+- Takes effort
 
 **Decision:**
 
 **Next steps:**
+
+- On hold, Jarkko gives a little time for this
 
 <hr/>
 
