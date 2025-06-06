@@ -3,7 +3,7 @@
 Meeting URL:  https://meet.google.com/ezu-qdoz-eja 
 
 ## Attendees
-....
+Zaher, Ravi, Jarkko, Manfred, Jorge, and Daniel
 
 ## Agenda (items 1-4 discussed in the meeting, rest untouched)
 
