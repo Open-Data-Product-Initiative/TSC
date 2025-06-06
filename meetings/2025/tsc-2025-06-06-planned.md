@@ -16,6 +16,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 7. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
 8. Certification Program via Data Maestro Academy
 9. AI Integration and Chatbot Development for ODPS-Enabled Platforms
+10. Tools Development, CLI, GUI
 
 
 <hr/>
@@ -102,7 +103,10 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 
 ### 9. AI integration and chatbot development
 
-
-
 Many organizations adopting data products now face a dilemma: they aim to align with data mesh principles while still wanting to leverage key features of the Open Data Product Specification (ODPS). What’s needed are clear patterns for building hybrid models that combine the best of both worlds.
+
+### 10. Tools Development, CLI, GUI
+
+- In group a discussion of tools development need. Jorge amont others
+- X-road context
 
