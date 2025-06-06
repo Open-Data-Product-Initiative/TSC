@@ -12,7 +12,7 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 3. Patterns - Data Mesh spec (port orientation) and how to merge that with ODPS
 4. Organizing a Webinar Featuring ODPS Use Cases (BASF, Alation, etc.)
 5. Proposed Approach for ODPS 4.0 – Fixes, Component Model, and Implementation Path
-6. 6. Strategic Opportunities and Ecosystem Partnerships
+6. Strategic Opportunities and Ecosystem Partnerships
 7. Training Materials and Online Courses Featuring ODPS (Udemy MasterClasses)
 8. Certification Program via Data Maestro Academy
 9. AI Integration and Chatbot Development for ODPS-Enabled Platforms
