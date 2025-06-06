@@ -43,6 +43,8 @@ Meeting URL:  https://meet.google.com/ezu-qdoz-eja
 <hr/>
 
 ### 3. Data Mesh spec (port orientation) and how to merge that with ODPS 
+- Some users of ODPS struggling with this. Not one but more, so perhaps we can start drafting patterns for the hybrids.
+- We already have hybrid in X-Road but that is OpenAPI spec & ODPS
 
 ### 4. Webinar
 - Maintainer has suggested that we organize a use cases focused webinar.
